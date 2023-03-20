@@ -3,6 +3,7 @@
   <component name="SqlDialectMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6332a4c-2929-4b6d-a237-0e55624f2860/console.sql" dialect="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a6332a4c-2929-4b6d-a237-0e55624f2860/console_2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/console_2.sql" dialect="MySQL" />
     <file url="file://D:/all_Tutorial and help video/DATA SCIENCE/sql-server-samples-master/sql-server-samples-master/samples/databases/northwind-pubs/instnwnd.sql" dialect="AZURE" />
     <file url="file://D:/all_Tutorial and help video/DATA SCIENCE/sql-server-samples-master/sql-server-samples-master/samples/databases/northwind-pubs/instpubs.sql" dialect="MySQL" />
   </component>
