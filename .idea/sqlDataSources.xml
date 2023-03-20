@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="c8eb85f2-4d9a-4db2-a8e8-bcac627bcc37" />
+          <option name="name" value="Northwind@localhost (DDL)" />
+          <option name="languageId" value="MySQL" />
+          <option name="urls">
+            <array>
+              <option value="file://D:/all_Tutorial and help video/DATA SCIENCE/sql-server-samples-master/sql-server-samples-master/samples/databases/northwind-pubs/instpubs.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
